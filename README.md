@@ -1,2 +1,2 @@
 # TicketManager.java
-this is ment to simualte a ticket linup at a concert using ID numbers and deternming weather people can leave or stay using thier ticket IDs 
+this is ment to simulate a ticket linup at a concert using ID numbers and deternming whether people can leave or stay using thier ticket IDs 
