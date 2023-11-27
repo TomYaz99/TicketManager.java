@@ -1,2 +1,2 @@
 # TicketManager.java
-this is ment to simulate a ticket linup at a concert using ID numbers and deternming whether people can leave or stay using thier ticket IDs 
+simulates a ticket lineup at a concert using ID numbers and determining weather people can leave or stay using their ticket IDs (using a priority Queue)
